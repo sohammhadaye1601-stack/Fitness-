@@ -1,0 +1,7 @@
+{
+  "name": "Solid Health & Fitness Porur",
+  "description": "Premium gym and wellness center in Porur, Chennai. Personalized training, modern strength facilities, and expert fitness guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
